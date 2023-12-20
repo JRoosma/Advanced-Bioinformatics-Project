@@ -1,0 +1,1 @@
+Python program to be ran in terminal in Unix/Linux environment in order to use Pysam / Samtools Libraries. User will be asked in the terminal window to input the file path to the BAM file, not the BAI or Sorted files as these files just need to be in the same folder as the BAM file.
